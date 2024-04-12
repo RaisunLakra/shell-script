@@ -1,0 +1,5 @@
+break - to break the loop
+continue - to continue by skipping the below lines of code
+sleep - to stop executing the code for provided seconds
+exit - to exit the program
+#? - gives you status of previous command if that was successful
